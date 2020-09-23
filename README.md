@@ -2,7 +2,7 @@
 
 I'm **Oluwafemi**, a fullstack mobile application 📱 developer writing code with React Native and NodeJS. More of a MERN stack actually (featuring GraphQL😅). Finished two production ready mobile apps 😪:
 - 6TQ is a quiz mobile application allowing users to win cash prizes (virtual 🙃) based on the amount they choose to stake with. And yeah, this also comes with dark mode support and ads integration to earn more lives (⚡⚡). [Try it out](https://drive.google.com/file/d/1t-iUzfOWONnHo4EGGquaF8VC72O8o303/view?usp=sharing)
-- A financial investment application built for [@Secure Capital](https://www.securecapitallimited.com), allowing users to create and manage investments instantly and with ease. Patiently awaiting approval from playstore 😊⌛
+- A financial investment application built for [@Secure Capital](https://www.securecapitallimited.com), allowing users to create and manage investments instantly and with ease.Here's a [working demo](https://drive.google.com/file/d/1Sk15juw9Zffwy0aDlSByeioP-ZwEwF4s/view?usp=drivesdk)⏳
 
 ## He loves gaming too!! 😬😬
 Okay,  fun fact! My alias (*echoeyecodes*) was actually coined from two words. First is (EchoEye) which is from the game - Tales from the Borderlands😁 and of course.. I Code too!!😊 Yeah, I know! It's one of the best stuff out there. Big fan of the Call of Duty franchise also. I love every single one of them!! Other favorites are Apex legends and Grand Theft Auto😎😎
