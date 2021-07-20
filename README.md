@@ -2,11 +2,13 @@
 
 I'm **Oluwafemi**, a fullstack mobile application 📱 developer, previously with React Native, but now settling fulltime with Kotlin for android development. You should know me by my greatest hits 😊:
 
+- Picashot | Virtual Gaming Photography: An android application built for the virtual gaming photography community to share in-game photos, screenshots, and creative edits captured from definite moments that tells a story based on perspective, or passes across a well-crafted message that expresses a state of mind. [App Link](https://play.google.com/store/apps/details?id=com.echoeyecodes.picashot)
+
+- Dobby | Social Media Downloader: Dobby is a fast, easy, and secure app to download videos, images, Reels, IGTV and other media files from Twitter and Instagram. Download any of your favorite media files from these sites in HD and share them directly to other applications. [App Link](https://play.google.com/store/apps/details?id=com.echoeyecodes.dobby)
+
 - Cashier: Cashier is a financial investment application built with React Native - but.. **BUT** using typescript! First investment application was in pure Javascript, but I somehow feel a whole lot better working with a strictly typed language like Typescript. Also realized some "pitfalls" I made with the previous app written in plain ol' javascript. I think Typescript is awesome and the thought of rebuilding an already existing app with TS seemed like a really nice idea at that moment, so I did! [Android demo](https://drive.google.com/file/d/1cjAY2jxkk8wUUF4uiAgy8c33925aLRkS/view?usp=sharing)
 
 - Sinnerman: My first native android application. Started with Java before porting over to Kotlin. Sinnerman is a video streaming application built primarily for my favorite games... Topping this list is [Apex Legends](https://www.ea.com/games/apex-legends) so you would see more that 😊
-
-- 6TQ is a quiz mobile application allowing users to win cash prizes (virtual 🙃) based on the amount they choose to stake with. And yeah, this also comes with dark mode support and ads integration to earn more lives (⚡⚡). [Try it out](https://drive.google.com/file/d/1t-iUzfOWONnHo4EGGquaF8VC72O8o303/view?usp=sharing)
 
 - A financial investment application built for [@Secure Capital](https://www.securecapitallimited.com), allowing users to create and manage investments instantly and with ease. Now available both on Android & iOS
 [Android](https://play.google.com/store/apps/details?id=com.securecapital)
