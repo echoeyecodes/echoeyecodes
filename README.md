@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Oluwafemi**, a fullstack android application 📱 developer. You should know me by my greatest hits 😊:
+I'm **Oluwafemi**, a fullstack software developer. You should know me by my greatest hits 😊:
 
 - Picashot | Virtual Gaming Photography: An android application built for the virtual gaming photography community to share in-game photos, screenshots, and creative edits captured from definite moments that tells a story based on perspective, or passes across a well-crafted message that expresses a state of mind. [App Link](https://play.google.com/store/apps/details?id=com.echoeyecodes.picashot)
 
